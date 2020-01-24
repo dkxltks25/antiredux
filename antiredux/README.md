@@ -70,3 +70,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ### first install 
 [1] yarn add styled-components styled-reset styled-flex-component
+[2] yarn add typography
+--- styled component 강의 수강하기
